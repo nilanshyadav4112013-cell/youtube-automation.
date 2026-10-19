@@ -1,0 +1,6 @@
+anthropic
+edge-tts
+moviepy==1.0.3
+pillow
+google-api-python-client
+google-auth
